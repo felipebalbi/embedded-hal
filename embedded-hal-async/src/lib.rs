@@ -6,4 +6,5 @@
 pub mod delay;
 pub mod digital;
 pub mod i2c;
+pub mod i2c_slave;
 pub mod spi;
